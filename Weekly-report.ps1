@@ -1,3 +1,8 @@
+# Script Name: Project
+# Author: Dima Rawashdeh
+# Date of Last revision: 08/20/2020
+# Description of purpose: To get all the sales report from excel file and put it in one folder.
+
 
 $Path    = "$env:USERPROFILE\OneDrive\"
 
